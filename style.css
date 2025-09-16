@@ -44,10 +44,11 @@ ul.nav li a:hover:not(.active) {
     background-color: #cbdf90;
 }
 
-div.imageOne {
+.ImageOne {
     text-align: center;
     margin-top: 20px;
     width: 400px;
     height: auto;
+    
 
 }
