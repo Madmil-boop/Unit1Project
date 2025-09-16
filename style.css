@@ -58,6 +58,7 @@ ul.nav li a:hover:not(.active) {
     text-align: center;
     font-size: large;
     color: #ffffff;
+    height: 25%;
 }
 
 .RowTwo {
@@ -66,6 +67,7 @@ ul.nav li a:hover:not(.active) {
     text-align: center;
     font-size: large;
     color: #ffffff;
+    height: 25%;
 }
 
 .RowThree {
@@ -74,4 +76,5 @@ ul.nav li a:hover:not(.active) {
     text-align: center;
     font-size: large;
     color: #ffffff;
+    height: 25%;
 }
