@@ -52,7 +52,7 @@ ul.nav li a:hover:not(.active) {
 
 }
 
-.RowOne {
+.C1R1 {
     background-color: #8fad88;
     padding: 20px;
     text-align: center;
@@ -61,7 +61,7 @@ ul.nav li a:hover:not(.active) {
     height: 25%;
 }
 
-.RowTwo {
+.C1R2 {
     background-color: #cbdf90;
     padding: 20px;
     text-align: center;
@@ -70,7 +70,7 @@ ul.nav li a:hover:not(.active) {
     height: 25%;
 }
 
-.RowThree {
+.C1R3 {
     background-color: #8fad88;
     padding: 20px;
     text-align: center;
