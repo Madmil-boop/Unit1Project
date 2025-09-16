@@ -1,24 +1,22 @@
 
 
-div.header {
+.header {
     background-color: rgba(251, 167, 213, 0.89);
     padding: 20px;
     text-align: center;
     font-size: large;
 }
-
-ul.nav{
+.nav{
     list-style-type: none;
 
 }
 
-div.columeOne {
-    float: left;
-    width: 50%;
+.columeOne {
+
     background-color: aqua;
 }
 
-div.columeTwo {
+.columeTwo {
     float: right;
     width: 50%;
     background-color: blue;
