@@ -11,12 +11,12 @@
 
 }
 
-.columeOne {
+.columnOne {
 
     background-color: aqua;
 }
 
-.columeTwo {
+.columnTwo {
     float: right;
     width: 50%;
     background-color: blue;
