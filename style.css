@@ -3,6 +3,16 @@
 header {
     background-color: rgba(251, 167, 213, 0.89);
     padding: 20px;
-    height: 10%;
     text-align: center;
+}
+
+div.columeOne {
+    float: left;
+    width: 50%;
+    background-color: aqua;
+}
+
+div.columeTwo {
+    width: 50%;
+    background-color: blue;
 }
