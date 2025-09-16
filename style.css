@@ -76,6 +76,7 @@ ul.nav li a:hover:not(.active) {
    height: auto;
    display: block;
   max-width: 100%;
+  outline: #cbdf90 solid 50px;
 }
 
 .Frankie-img {
