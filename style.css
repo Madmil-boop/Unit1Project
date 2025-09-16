@@ -1,7 +1,7 @@
 
 
 .header {
-    background-color: rgba(251, 167, 213, 0.89);
+    background-color: #4d7c8a;
     padding: 20px;
     text-align: center;
     font-size: large;
@@ -11,7 +11,7 @@ ul.nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #e9a7cd;
+  background-color: #7f9c96;
   display: flex;
 }
 
@@ -23,24 +23,24 @@ ul.nav li a {
 }
 
 ul.sidenav li a.active {
-  background-color: #c96ba4;
+  background-color: #4d7c8a;
   color: white;
 }
 
 ul.nav li a:hover:not(.active) {
-  background-color: #a95387;
+  background-color: #1b4079;
 }
 
 
 .columnOne {
     float: left;
     width: 50%;
-    background-color: #c96ba4;
+    background-color: #8fad88;
 }
 
 .columnTwo {
     float: right;
     width: 50%;
-    background-color: #ffffff;
+    background-color: #cbdf90;
 }
 
