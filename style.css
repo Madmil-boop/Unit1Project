@@ -57,7 +57,6 @@ ul.nav li a:hover:not(.active) {
 
 .Bagel, .Frankie, .Duncan {
     background-color: #8fad88;
-    width: 75%;
     margin: 10px auto;
     padding: 20px;
     text-align: center;
@@ -66,6 +65,7 @@ ul.nav li a:hover:not(.active) {
 
 .Frankie {
     background-color: #cbdf90;
+
 
 }
 
