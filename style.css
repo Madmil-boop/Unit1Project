@@ -47,7 +47,9 @@ ul.nav li a:hover:not(.active) {
 .ImageOne {
     width: 75%;
     height: auto;
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 
 }
@@ -68,6 +70,7 @@ ul.nav li a:hover:not(.active) {
     font-size: large;
     color: #ffffff;
     height: 25%;
+
 }
 
 .Duncan {
@@ -77,22 +80,31 @@ ul.nav li a:hover:not(.active) {
     font-size: large;
     color: #ffffff;
     height: 25%;
+
 }
 
 .Bagel-img {
     width: 75%;
     height: auto;
     text-align: center;
-
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 .Frankie-img {
     width: 75%;
     height: auto;
     text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .Duncan-img {
     width: 75%;
     height: auto;
     text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
