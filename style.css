@@ -52,7 +52,7 @@ ul.nav li a:hover:not(.active) {
 
 }
 
-.C1R1 {
+.Bagel {
     background-color: #8fad88;
     padding: 20px;
     text-align: center;
@@ -61,7 +61,7 @@ ul.nav li a:hover:not(.active) {
     height: 25%;
 }
 
-.C1R2 {
+.Frankie {
     background-color: #cbdf90;
     padding: 20px;
     text-align: center;
@@ -70,11 +70,29 @@ ul.nav li a:hover:not(.active) {
     height: 25%;
 }
 
-.C1R3 {
+.Duncan {
     background-color: #8fad88;
     padding: 20px;
     text-align: center;
     font-size: large;
     color: #ffffff;
     height: 25%;
+}
+
+.Bagel-img {
+    width: 75%;
+    height: auto;
+    text-align: center;
+
+
+}
+.Frankie-img {
+    width: 75%;
+    height: auto;
+    text-align: center;
+}
+.Duncan-img {
+    width: 75%;
+    height: auto;
+    text-align: center;
 }
