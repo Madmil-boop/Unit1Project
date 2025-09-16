@@ -45,9 +45,9 @@ ul.nav li a:hover:not(.active) {
 }
 
 .ImageOne {
-    margin: 25%;
     width: 75%;
     height: auto;
+    text-align: center;
 
 
 }
