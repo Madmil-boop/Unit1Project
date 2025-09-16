@@ -49,7 +49,7 @@ ul.nav li a:hover:not(.active) {
 }
 
 .Home-Img {
-    width: 500px;
+    width: 400px;
     height: auto;
     display: block;
     transform: rotate(-90deg);
@@ -71,9 +71,21 @@ ul.nav li a:hover:not(.active) {
 
 }
 
-.cat-img {
+.Bagel-img, .Frankie-img, .Duncan-img {
    width: 50px;
    height: auto;
    display: block;
   max-width: 100%;
+}
+
+.Frankie-img {
+    background-color: #8fad88;
+}
+
+.Family-Img {
+  background-image: url('');
+  background-size: cover;     
+  background-position: center;
+  width: 100%;
+  height: 300px;
 }
