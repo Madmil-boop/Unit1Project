@@ -50,40 +50,26 @@ ul.nav li a:hover:not(.active) {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    transform: rotate(-90deg);
 
 
 }
 
-.Bagel {
+.Bagel, .Frankie, .Duncan {
     background-color: #8fad88;
+    width: 75%;
+    margin: 10px auto;
     padding: 20px;
     text-align: center;
-    font-size: large;
     color: #ffffff;
-    height: 25%;
 }
 
 .Frankie {
     background-color: #cbdf90;
-    padding: 20px;
-    text-align: center;
-    font-size: large;
-    color: #ffffff;
-    height: 25%;
 
 }
 
-.Duncan {
-    background-color: #8fad88;
-    padding: 20px;
-    text-align: center;
-    font-size: large;
-    color: #ffffff;
-    height: 25%;
-
-}
-
-.Bagel-img {
+.Bagel-img, .Frankie-img, .Duncan-img {
     width: 75%;
     height: auto;
     text-align: center;
@@ -91,20 +77,4 @@ ul.nav li a:hover:not(.active) {
     margin-left: auto;
     margin-right: auto;
 
-}
-.Frankie-img {
-    width: 75%;
-    height: auto;
-    text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-.Duncan-img {
-    width: 75%;
-    height: auto;
-    text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 }
