@@ -49,6 +49,30 @@ ul.nav li a:hover:not(.active) {
     margin-top: 20px;
     width: 200px;
     height: auto;
-    
 
+
+}
+
+.RowOne {
+    background-color: #8fad88;
+    padding: 20px;
+    text-align: center;
+    font-size: large;
+    color: #ffffff;
+}
+
+.RowTwo {
+    background-color: #cbdf90;
+    padding: 20px;
+    text-align: center;
+    font-size: large;
+    color: #ffffff;
+}
+
+.RowThree {
+    background-color: #8fad88;
+    padding: 20px;
+    text-align: center;
+    font-size: large;
+    color: #ffffff;
 }
