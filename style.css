@@ -53,7 +53,7 @@ ul.nav li a:hover:not(.active) {
     height: auto;
     display: block;
     transform: rotate(-90deg);
-
+    max-width: 100%;
 
 }
 
@@ -74,5 +74,5 @@ ul.nav li a:hover:not(.active) {
    width: 50px;
    height: auto;
    display: block;
-
+  max-width: 100%;
 }
