@@ -45,8 +45,8 @@ ul.nav li a:hover:not(.active) {
 }
 
 .ImageOne {
-    width: 75%;
-    height: auto;
+    width: auto;
+    height: 75%;
     display: block;
     margin-left: auto;
     margin-right: auto;
