@@ -22,15 +22,20 @@ ul.nav li a {
   text-decoration: none;
 }
 
-ul.nav li a:hover {
-  background-color: #a6519b;
+ul.sidenav li a.active {
+  background-color: #c96ba4;
+  color: white;
+}
+
+ul.nav li a:hover:not(.active) {
+  background-color: #a95387;
 }
 
 
 .columnOne {
     float: left;
     width: 50%;
-    background-color: rgb(202, 106, 164);
+    background-color: #c96ba4;
 }
 
 .columnTwo {
