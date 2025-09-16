@@ -55,6 +55,7 @@ ul.nav li a:hover:not(.active) {
     transform: rotate(-90deg);
     max-width: 100%;
     text-align: center;
+    border: #cbdf90 solid 50px  ;
 
 }
 
