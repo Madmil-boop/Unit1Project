@@ -48,6 +48,12 @@ ul.nav li a:hover:not(.active) {
     width: 50%;
     background-color: #cbdf90;
 }
+.columnTwo img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 .Home-Img {
     width: 400px;
