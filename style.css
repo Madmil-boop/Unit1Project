@@ -1,9 +1,15 @@
 
 
-header {
+div.header {
     background-color: rgba(251, 167, 213, 0.89);
     padding: 20px;
     text-align: center;
+    font-size: large;
+}
+
+nav{
+    list-style-type: none;
+
 }
 
 div.columeOne {
@@ -13,6 +19,8 @@ div.columeOne {
 }
 
 div.columeTwo {
+    float: right;
     width: 50%;
     background-color: blue;
 }
+
