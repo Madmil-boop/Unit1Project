@@ -44,7 +44,7 @@ ul.nav li a:hover:not(.active) {
 }
 
 .columnTwo {
-    
+    float: right;
     width: 50%;
     background-color: #cbdf90;
 }
