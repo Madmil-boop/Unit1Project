@@ -49,11 +49,12 @@ ul.nav li a:hover:not(.active) {
 }
 
 .Home-Img {
-    width: 200px;
+    width: 500px;
     height: auto;
     display: block;
     transform: rotate(-90deg);
     max-width: 100%;
+    text-align: center;
 
 }
 
