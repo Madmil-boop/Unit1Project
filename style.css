@@ -6,10 +6,25 @@
     text-align: center;
     font-size: large;
 }
-.nav{
-    list-style-type: none;
-    display: inline;
+ul.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+  display: flex;
 }
+
+ul.nav li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.nav li a:hover {
+  background-color: #111111;
+}
+
 
 .columnOne {
     float: left;
