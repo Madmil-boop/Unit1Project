@@ -40,7 +40,8 @@ ul.nav li a:hover:not(.active) {
     float: left;
     width: 50%;
     background-color: #8fad88;
-    height: 800px;
+    height: 485px;
+    
 }
 
 .columnTwo {
@@ -62,17 +63,40 @@ ul.nav li a:hover:not(.active) {
     transform: rotate(-90deg);
     max-width: 100%;
     text-align: center;
-    border: #cbdf90 solid 50px  ;
+    border: #cbdf90 solid 25px  ;
 
+}
+
+.Cats-Info{
+    float: left;
+    width: 50%;
+    background-color: #8fad88;
+    height: 485px;
+    
+}
+
+.Cats-Img {
+    float: right;
+    width: 50%;
+    background-color: #cbdf90;
+}
+.Cats-Img img {
+    display: block;
+    /*margin-left: auto;
+    margin-right: auto;*/
+    width: 75%;
 }
 
 .Bagel, .Frankie, .Duncan {
     background-color: #8fad88;
-    margin: 10px auto;
-    padding: 20px;
+
+    /*padding: 150px;*/
     text-align: center;
     color: #ffffff;
 }
+
+
+
 
 .Frankie {
     background-color: #cbdf90;
@@ -80,21 +104,59 @@ ul.nav li a:hover:not(.active) {
 }
 
 .Bagel-img, .Frankie-img, .Duncan-img {
-   width: 50px;
+   width: 450px;
    height: auto;
    display: block;
   max-width: 100%;
-  border: #cbdf90 solid 50px;
+  border: #cbdf90 solid 20px;
 }
 
 .Frankie-img {
     background-color: #8fad88;
+    border: #8fad88 solid 50px;
+    width: 500px;
+    height: auto;
 }
 
 .Family-Img {
-  background-image: url('');
-  background-size: cover;     
+  background-image: url('Images/Family photo.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: center;
   width: 100%;
-  height: 300px;
+   height: 800px;
+  display: flex;
+  flex-direction: column;
+   align-items: flex-start;
+   justify-content: flex-start;
+  margin: 0;
+   padding: 20px;
 }
+.Family-Img h2, .Family-Img p {
+  color: rgb(0, 0, 0);
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+h2 {
+  padding: 20px ;
+  color: #ffffff;
+}
+
+p {
+  padding: 0 20px 20px 20px;
+  color: #ffffff;
+}
+
+.bagel h2, .frankie h2, .duncan h2 {
+    padding: 0px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.bagel p, .frankie p, .duncan p {
+    padding: 0 ;
+    color: #ffffff;
+    text-align: center;
+}
+
